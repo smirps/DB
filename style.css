@@ -217,31 +217,31 @@ hr {
 
 @keyframes html-progress {
   to {
-    --progress-value: 60;
+    --progress-value: 100;
   }
 }
 
 @keyframes css-progress {
   to {
-    --progress-value: 50;
+    --progress-value: 100;
   }
 }
 
 @keyframes js-progress {
   to {
-    --progress-value: 30;
+    --progress-value: 100;
   }
 }
 
 @keyframes react-progress {
   to {
-    --progress-value: 5;
+    --progress-value: 50;
   }
 }
 
 @keyframes node-progress {
   to {
-    --progress-value: 2;
+    --progress-value: 10;
   }
 }
 
