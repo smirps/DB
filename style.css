@@ -5,7 +5,9 @@
   padding: 0;
   box-sizing: border-box;
 }
-
+body {
+  font-family: 'Poppins', sans-serif;
+}
 body {
   height: 100%;
   background-color: #000021;
@@ -403,7 +405,7 @@ progress {
 
 .photosheading {
   text-align: center;
-  font-family: "Edu SA Beginner", cursive;
+  font-family: "Edu SA Beginner", "Poppins", cursive;
   color: darkgoldenrod;
 }
 
